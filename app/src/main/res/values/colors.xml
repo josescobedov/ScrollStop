@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- OLED Backgrounds -->
+    <color name="oled_black">#000000</color>
+    <color name="card_surface">#0D0F17</color>
+    <color name="card_surface_elevated">#141724</color>
+    <color name="card_stroke">#1E2333</color>
+
+    <!-- Neon Accents -->
+    <color name="neon_emerald">#00F5A0</color>
+    <color name="neon_emerald_dark">#003824</color>
+    <color name="neon_emerald_glow">#3300F5A0</color>
+
+    <color name="neon_cyan">#00E5FF</color>
+    <color name="neon_cyan_dark">#002B33</color>
+
+    <color name="neon_rose">#FF3366</color>
+    <color name="neon_rose_dark">#3D0C18</color>
+    <color name="neon_rose_glow">#33FF3366</color>
+
+    <color name="neon_purple">#9D4EDD</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_muted">#6B7280</color>
+
+    <!-- Social Brand Accents -->
+    <color name="ig_pink">#E1306C</color>
+    <color name="tiktok_cyan">#00F2FE</color>
+</resources>

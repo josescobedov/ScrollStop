@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollStop</string>
+    <string name="accessibility_service_description">Servicio de prevención de scroll compulsivo para Instagram y TikTok.</string>
+</resources>

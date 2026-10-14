@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pure OLED Circular Black Base -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0" />
+
+    <!-- Soft Emerald Neon Glow Aura around Round Frame -->
+    <path
+        android:fillColor="#1500F5A0"
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0" />
+    <path
+        android:fillColor="#2200F5A0"
+        android:pathData="M54,54m-36,0a36,36 0,1 1,72 0a36,36 0,1 1,-72 0" />
+
+    <!-- Circular Dark Elevated Container with Neon Stroke -->
+    <path
+        android:fillColor="#080C0A"
+        android:strokeColor="#00F5A0"
+        android:strokeWidth="1.6"
+        android:strokeAlpha="0.75"
+        android:pathData="M54,54m-34,0a34,34 0,1 1,68 0a34,34 0,1 1,-68 0" />
+
+    <!-- Downward Scroll Arrow (Stem + Left barb) with Neon Emerald -->
+    <!-- Glow layer for Arrow -->
+    <path
+        android:strokeColor="#4000F5A0"
+        android:strokeWidth="8.0"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M48,30 L48,70 L38,60" />
+
+    <!-- Core Crisp Arrow Stem and Barb -->
+    <path
+        android:strokeColor="#00F5A0"
+        android:strokeWidth="4.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M48,30 L48,70 L38,60" />
+
+    <!-- Pause Bars (Stopping the scroll) with Neon Emerald -->
+    <!-- Glow layer for Pause Bars -->
+    <path
+        android:strokeColor="#4000F5A0"
+        android:strokeWidth="7.0"
+        android:strokeLineCap="round"
+        android:pathData="M59,51 L59,70 M69,51 L69,70" />
+
+    <!-- Core Crisp Pause Bars -->
+    <path
+        android:strokeColor="#00F5A0"
+        android:strokeWidth="4.0"
+        android:strokeLineCap="round"
+        android:pathData="M59,51 L59,70 M69,51 L69,70" />
+</vector>

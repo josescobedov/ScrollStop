@@ -1,0 +1,25 @@
+# Build and Gradle
+.gradle/
+build/
+app/build/
+**/build/
+*.apk
+*.ap_
+*.aab
+
+# Android Studio and IDEs
+.idea/
+*.iml
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.png
+dump.xml

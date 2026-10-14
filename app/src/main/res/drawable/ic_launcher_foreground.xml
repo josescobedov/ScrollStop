@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Group centred at (54, 54) scaled down to 72% to fit perfectly within Android's 66dp icon safe zone -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.72"
+        android:scaleY="0.72">
+
+        <!-- Outer Squircle Card Container with Subtle Emerald Glow & Border -->
+        <path
+            android:fillColor="#0D120F"
+            android:strokeColor="#00F5A0"
+            android:strokeWidth="1.8"
+            android:pathData="M34,20 C22,20 20,22 20,34 L20,74 C20,86 22,88 34,88 L74,88 C86,88 88,86 88,74 L88,34 C88,22 86,20 74,20 Z" />
+
+        <!-- Downward Scroll Arrow (Stem + Left barb) with Neon Emerald -->
+        <!-- Glow halo layer for Arrow -->
+        <path
+            android:strokeColor="#3500F5A0"
+            android:strokeWidth="7.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M48,32 L48,68 L38,58" />
+
+        <!-- Crisp Sharp Arrow -->
+        <path
+            android:strokeColor="#00F5A0"
+            android:strokeWidth="4.0"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M48,32 L48,68 L38,58" />
+
+        <!-- Pause Bars (Stopping the scroll) with Neon Emerald -->
+        <!-- Glow halo layer for Pause Bars -->
+        <path
+            android:strokeColor="#3500F5A0"
+            android:strokeWidth="7.0"
+            android:strokeLineCap="round"
+            android:pathData="M59,50 L59,68 M69,50 L69,68" />
+
+        <!-- Crisp Sharp Pause Bars -->
+        <path
+            android:strokeColor="#00F5A0"
+            android:strokeWidth="4.0"
+            android:strokeLineCap="round"
+            android:pathData="M59,50 L59,68 M69,50 L69,68" />
+    </group>
+</vector>
